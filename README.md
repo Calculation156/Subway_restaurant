@@ -5,7 +5,7 @@ Analysing sales data of a fast food restaurant
 You can access to the code here in google colab
 
 
-#--Conclusion--
+##--Conclusion--
 
 This Subway is a fast food restaurant that serve budget-concious customers who prefer healthy meals and the diversity in option.
 (1) There are strong flucuations in price that adversely affects customers so it is recommended that Subway optimizes it supply chain to maintain a competitive and stable price for popular options such as Teriyaki chicken or Tuna.
